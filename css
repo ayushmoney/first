@@ -1,0 +1,143 @@
+.box1{
+	background-color: #eaf6f6;
+	
+}
+body{
+	margin: 0 ;
+	text-align: center;
+	font-family: cursive;
+}
+h1{
+	margin: 0 auto 0;
+padding-top: 150px;
+font-family: 'Sacramento', cursive;
+color: #66bfbf;
+}
+.i{
+	height: 200px;
+	width: 200px;
+	background-color: blue;
+}
+.o{
+	height: 200px;
+	width: 200px;
+	background-color: cyan;	
+
+}
+.q{
+	border:solid red 1px;
+}
+
+.bio{
+	position: relative;
+	top:20px;
+	font-size: 2rem;
+	margin-top: 0;
+	color: #66BFBF;
+	font-weight: normal;
+}
+.up_cl{
+	position: absolute;
+	
+}
+.down_cl{
+	position: absolute;
+	
+
+}
+.mnt{
+	margin-top: 80px;
+	height: 500px;
+	width: 1000px;
+
+}
+.greeting{
+	margin: 5px auto;
+
+}
+hr{
+	border-style: dotted none none;
+	width:10%;
+	border-width: 15px;
+	border-color: #018790;
+	margin-bottom: 0;
+	padding-bottom: 30px;
+	
+}
+.bio2{
+	margin-top: 5px;
+	margin:10px;
+}
+.logo{
+	border-radius: 100%;
+	height: 250px;
+	width: 250px;
+	position : relative;
+}
+.lang_desc{
+	margin-top: 2px;
+}
+.head{
+	padding: 0;
+	color: #127681;
+	font-size: 2.5rem;
+}
+
+.box3{
+	padding-bottom: 100px;
+	width: 50%;
+	margin: auto;
+}
+.box4{
+	background-color: #EAF6F6;
+}
+.box2_1{
+	height: 250px;
+	width: 250px;
+	margin:auto;
+}
+/*.pro_pic{
+	border-radius: 100%;
+	height: 250px;
+	width: 250px;
+	top:0 ;
+	position : absolute;
+}
+.pro_pic1{
+	border-radius: 100%;
+	height: 250px;
+	width: 250px;
+	margin: auto;
+	position : relative;	
+}*/
+table{
+	margin: auto;
+}
+.name{
+	font-size: 5.625rem;
+	color: #66BFBF;
+}
+h4{
+	color: #11999e;
+	
+}
+a{
+	color:white;
+}
+.skill{
+	margin:50px auto;
+	text-align: left;
+}
+.pro_pic{
+
+}
+.box2{
+	padding-top: 100px;
+	padding-bottom:100px;
+}
+.button{
+	border:solid #1f628d 2px;
+	background-image: linear-gradient(#3498db,#2980b9,blue);
+	display: inline;
+	border-radius: 80%;
+}
